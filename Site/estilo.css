@@ -1,0 +1,80 @@
+		*{
+			margin: 0;
+			padding: 0;
+			font-size: 100%;
+			border: none;
+			outline: none;
+			font-weight:300;
+			box-sizing: border-box;
+		}
+		
+		body{
+			background-color: #ffffff;
+		}
+			
+		a{
+			text-decoration: none;
+		}
+			
+		ul{
+			list-style:none;
+		}
+		.topo{
+			width: 100%;
+			float: left;
+			background-color: #B0C4DE;
+			padding: 20px; 0px;
+		}
+		
+		.contato{
+			font-family: Arial;
+			font-weight:bold;
+			color: #4B0082;
+			text-align: left;
+			
+		}
+
+		
+		h4{
+			font-family: Stencil Std;
+			font-weight:bold;
+			color: #4B0082;
+			text-align: left;
+		}
+		
+
+		
+		.container-bg{
+			padding: 50px;
+			background: #B0C4DE;
+		}
+		
+		.rodape{
+			width: 100%;
+			float: left;
+			background-color: #B0C4DE;
+			padding: 20px; 8%;
+		}
+		
+		.footertexto{
+			float: right;
+			
+		}
+		
+		
+		.btn-menu{
+			float: right;	
+			width: 30px;
+			height: 30px;
+			text-align: center;
+			color: #000;
+			border-radius: 30px;
+			display: inline-block;
+			vertical-align: middle;
+			position: relative;
+			margin-left: 20px;
+			cursor: pointer;
+				
+		}
+		
+	
