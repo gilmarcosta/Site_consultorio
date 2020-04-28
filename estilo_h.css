@@ -1,0 +1,102 @@
+		*{
+			margin: 0;
+			padding: 0;
+			font-size: 100%;
+			border: none;
+			outline: none;
+			font-weight:300;
+			box-sizing: border-box;
+		}
+		
+		body{
+			width: 100%;
+			margin: auto;
+			background:url(img/fundo33.jpg);
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: 100% 100%;			
+			text-align: center;
+		}
+	nav#menu ul{
+		list-style: none;
+		float: right;
+	}
+
+	nav#menu li{
+		display: inline-block;
+		padding: 5px;
+	}
+		.topo{
+			width: 100%;
+			float: left;
+			background-color: #FFDEAD66;
+			padding: 10px;
+		}
+		
+		.contato{
+			font-family: Arial;
+			font-weight:bold;
+			color: #4B0082;
+			text-align: left;
+			
+		}
+
+		h3{
+			font-family: Arial;
+			font-weight:bold;
+			color: #000000;
+			text-align: left;
+			
+			
+		}
+		
+		h4{
+			font-family: Stencil Std;
+			font-weight:bold;
+			color: #4B0082;
+			text-align: left;
+		}
+		
+
+		
+		.container-bg{
+			padding: 50px;
+			background: #FFDEAD66;
+		}
+		
+		.rodape{
+			width: 100%;
+			float: left;
+			background-color: #FFDEAD66;
+			padding: 20px; 8%;
+		}
+		
+		.footertexto{
+			float: center;
+			text-align: center;
+			
+		}
+		
+		h2{
+			font-family: Arial;
+			font-weight:bold;
+			text-align: left;
+			
+		}
+		
+		.btn-menu{
+			float: right;	
+			width: 30px;
+			height: 30px;
+			text-align: center;
+			color: #000;
+			border-radius: 30px;
+			display: inline-block;
+			vertical-align: middle;
+			position: relative;
+			margin-left: 20px;
+			cursor: pointer;
+				
+		}
+		
+	

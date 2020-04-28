@@ -1,0 +1,33 @@
+body{
+			width: 100%;
+			margin: auto;
+			background-color:#F4A460;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: 100% 100%;
+			font-weight:bold;	
+
+		}
+		
+		.container-bg{
+			padding: 50px;
+			background: #FFDEAD66;
+		}
+		
+		
+		.topo{
+			width: 100%;
+			float: left;
+			background-color: #FFDEAD66;
+			padding: 10px;
+		}
+		
+		.rodape{
+			width: 100%;
+			float: left;
+			background-color: #FFDEAD66;
+			padding: 30px 8%;
+		}
+		
+		
+		
